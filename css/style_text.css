@@ -1,0 +1,4 @@
+.donations, .results {
+	direction: rtl;
+	transform: rotateY(180deg);
+}
